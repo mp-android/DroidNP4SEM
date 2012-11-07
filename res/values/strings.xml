@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <resources>
     <string name="app_name">DroidNP Plugin For Xperia arc</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="description">This screen is needed for operation of this application.</string>
 </resources>
